@@ -1,4 +1,4 @@
-Algoritmo SUMAS
+Algoritmo SUMAS contreras
 	Definir NUM1, NUM2, SUMA Como Entero
 	Escribir "INGRESAR PRIMER DATO"
 	Leer NUM1
